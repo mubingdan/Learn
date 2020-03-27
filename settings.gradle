@@ -1,0 +1,1 @@
+include ':app', ':aspectjx', ':router', ':compiler', ':annotation', ':test', ':tree'
